@@ -1,6 +1,22 @@
-frontend-nanodegree-arcade-game
-===============================
+##Frogger Arcade Game
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+**Goal**
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+The goal of this game is to move the character across the bricks towards the water with out colliding into the bugs that are moving horizontally across the screen.  
+
+**Movement of character**
+
+Users utilize left/right/up/down arrows on key pad to move character.
+
+**Installation**
+1.Download zipfile 
+2.In the application's directory open the index.html file in a web browser window to being playing game  
+
+
+
+**Resources**
+
+(https://github.com/cpascual36/FEND-arcade-game/blob/master/js/app.js).
+(https://github.com/alexsales/frontend-nanodegree-frogger-arcade-game/blob/frogger-arcade-master/js/app.js).
+(https://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/?utm_source=html5weekly&utm_).
+
